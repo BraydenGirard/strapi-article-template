@@ -1,0 +1,1 @@
+# strapi-article-template
